@@ -1,0 +1,10 @@
+name:
+lvl:
+hp:
+dmg:
+armor:
+speed:
+inv[]
+abil:
+res:
+ws:
